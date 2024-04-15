@@ -1,0 +1,11 @@
+$two-rem-size: 2rem;
+$halfRemLineHeight: .5rem;
+
+.leading-1 {
+  line-height: $halfRemLineHeight;
+}
+
+.icon svg {
+  width: $two-rem-size;
+  height: $two-rem-size;
+}
